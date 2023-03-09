@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.application.project.models.User;
 import com.application.project.services.UserServices;
 
-import jakarta.ws.rs.Path;
 
 @RestController
 @RequestMapping("/users")
